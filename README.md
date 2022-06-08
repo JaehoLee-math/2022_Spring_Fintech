@@ -1,6 +1,6 @@
 # 2022_Spring_Fintech
 
-main 안의
+  핀테크 프로젝트 최종 발표 대본 : 간략한 발표로 인한 보완을 위한 발표 
 
   index-quicklink.html : 기본 메인 페이지
   
